@@ -5,10 +5,6 @@ A Python package for analyzing and visualizing xyz files.
 Handles the primary functions
 """
 
-import os
-import numpy as np
-import matplotlib.pyplot as plt
-
 
 def canvas(with_attribution=True):
     """
